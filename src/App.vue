@@ -1,8 +1,8 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <h1>This is Us Kidocode!</h1>
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <img alt="Vue logo" src="https://s3-ap-southeast-1.amazonaws.com/kidocodeweb/assets/images/KIDOCODE_LOGO_2.svg">
+    <h1>This is Us @Kidocode!</h1>
+    <HelloWorld msg="Stay Awesome"/>
   </div>
 </template>
 
