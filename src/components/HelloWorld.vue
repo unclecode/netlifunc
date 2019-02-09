@@ -20,6 +20,7 @@ export default {
     },
     methods: {
         async call() {
+            this.message = 'loading...'
             let {data} = await this.$axios.get("/.netlify/functions/hello");
             this.message = data.msg
         }
