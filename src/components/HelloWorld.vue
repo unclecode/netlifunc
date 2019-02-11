@@ -2,7 +2,7 @@
 <template>
     <div class="hello">
         <h1>{{ message }}</h1>
-        <a href @click.prevent="call">Call Me</a>
+        <a href @click.prevent="call">Call Me @AWS Lambda</a>
     </div>
 </template>
 
@@ -44,4 +44,5 @@ li {
 a {
     color: #42b983;
 }
+
 </style>
